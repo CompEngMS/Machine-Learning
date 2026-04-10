@@ -2,10 +2,10 @@
 
 |          |Available|Last update|
 |----------|:-------:|:---------:|
-|Exams     |yes      |2019       |
-|Exercises |yes      |2018       |
+|Exams     |yes      |2026       |
+|Exercises |yes      |2026       |
 |Homework  |yes      |2018       |
-|Notes     |yes      |2018       |
+|Notes     |yes      |2026       |
 |References|yes      |           |
 |Slides    |yes      |2018       |
 
